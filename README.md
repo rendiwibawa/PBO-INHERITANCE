@@ -48,7 +48,7 @@ untuk membuat suatu kelas yang didasarkan pada kelas yang sudah ada sehingga mew
 semua metode dan variabelnya.
 
 ## dilakukan dalam inheritance :
-> HARUS MEMAHAMI :
+> # HARUS MEMAHAMI :
 >### Keyword super=>
 Keyword super digunakan oleh subclass untuk memanggil konstuktor yang berada pada superclass.
 
