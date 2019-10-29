@@ -49,14 +49,14 @@ semua metode dan variabelnya.
 
 ## dilakukan dalam inheritance :
 > HARUS MEMAHAMI :
-### Keyword super=>
+>### Keyword super=>
 Keyword super digunakan oleh subclass untuk memanggil konstuktor yang berada pada superclass.
 
-### Keyword this=>
+>### Keyword this=>
 Kata kunci this dipergunakan pada pembuatan kelas dan digunakan untuk menyatakan objek sekarang.
 
-### Overloading Methods=>
+>### Overloading Methods=>
 Adalah suatu method dengan nama yang sama namun mempunyai fungsi yang berbeda menurut parameter yang di gunakkan
 
-### Overriding Methods=>
+>### Overriding Methods=>
 Overriding menulis kembali method sama persis. Sama mulai dari nama method dan isinya dan mengimplementasi kembali di subclassnya.
