@@ -34,7 +34,7 @@
 ![Alt Text](https://github.com/rendiwibawa/PBO-INHERITANCE/blob/master/Latihan5.PNG)
 
 # 𝓛𝓪𝓽𝓲𝓱𝓪𝓷 6.
-## Keluaran dari program tersebut adalah :
+## -Keluaran dari program tersebut adalah :
 ![Alt Text](https://github.com/rendiwibawa/PBO-INHERITANCE/blob/master/Latihan6.PNG)
 
 # 𝓛𝓪𝓽𝓲𝓱𝓪𝓷 ᴘʀᴀᴋᴛɪᴋᴜᴍ.
